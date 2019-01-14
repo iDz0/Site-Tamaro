@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid{
+    background-color: pink;
+    height: 1000px;
+}
+
+a{
+    display: block;
+    background-color: red;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+#menu{
+    background-color: green;
+}
+
+#pub{
+    background-color: green;
+}
+
+#haut{
+    height: 250px;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    list-style: none;
+}
+
+img{
+    float: left;
+    margin: 20px;
+}
+
+h1{
+    float: left;
+    margin: 20px;
+}
+
+nav{
+    float: right;
+    margin: 20px;
+}
+
+li{
+    list-style: none;
+}
